@@ -9,9 +9,10 @@ Welcome to Andy's BBQ Recipies's
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
+   :glob:
 
-   ribs
-   greekLamb
+   recipe/*
+   
   
    
 
