@@ -1,0 +1,27 @@
+{
+    "version": "0.1.0",
+    "command": "make",
+    "isShellCommand": true,
+    "tasks": [
+        {
+            "taskName": "Makefile",
+            "command":"make",
+            "options": {
+                "cwd": "${workspaceRoot}/docs"
+            }
+            
+
+            // Make this the default build command.
+            "isBuildCommand": true,
+
+            // Show the output window only if unrecognized errors occur.
+            "showOutput": "always",
+
+            // No args
+            "args": ["html"],
+
+            // Use the standard less compilation problem matcher.
+           
+        }
+    ]
+}
