@@ -8,19 +8,10 @@ Welcome to Andy's BBQ Recipies's
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: All Receipies:
    :glob:
 
    recipe/*
    
-  
-   
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
