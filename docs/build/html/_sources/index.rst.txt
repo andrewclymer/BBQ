@@ -8,7 +8,7 @@ Welcome to Andy's BBQ Recipies's
 
 .. toctree::
    :maxdepth: 1
-   :caption: All Receipies:
+   :caption: All Recipies:
    :glob:
 
    recipe/*
