@@ -1,5 +1,5 @@
 *************
-Chicken Dry Rub
+Spicy Chicken Wings Dry Rub
 *************
 
 Ingredients
