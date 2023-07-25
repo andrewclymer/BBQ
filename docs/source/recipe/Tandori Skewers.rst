@@ -7,7 +7,7 @@ Works with chicken, and vegtable skewers
 Ingredients
 ##########
 
-* Half a cup of plain yogurt
+* Half a cup of plain yogurt, strain overnight for best results
 * 1 tbsp of garamasla
 * 1/2 tbsp ground ginger
 * 1/2 tbsp of red chilli powder (this wil be hot )
