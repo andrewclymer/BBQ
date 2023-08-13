@@ -23,7 +23,10 @@ Instructions
 * Heat BBQ to 120-130
 * Cook off heat for 5-6 hours
 * Use smoking chips or smoke blocks for extra flavour
-* Internal temperature of rib should be 91 degrees
-* wrap in foil, and rest for 45 minutes ( the hard part)
+* Complete cooking when internal temperature of rib reaches 91 degrees
+* Wrap in foil, and rest for 45 minutes ( the hard part)
+
+Enjoy with Coleslaw and Bake potatoes
+
 
 
