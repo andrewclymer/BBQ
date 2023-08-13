@@ -1,10 +1,10 @@
 *************
-Slow Short Rib
+Slow Short Beef Rib
 *************
 
 Ingredients
 ##########
- 4 Short Ribs
+ 4 Short Beef Ribs
 
 Rub
 #########
