@@ -11,7 +11,7 @@ Ingredients
 * 1/4 cup distilled white vinegar
 * 2 cloves garlic, minced
 * 2 tablespoons brown sugar
-* Mustard to cover ribs
+
 
 Method
 ######

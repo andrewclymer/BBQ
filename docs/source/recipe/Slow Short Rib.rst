@@ -13,6 +13,7 @@ Rub
 * 2 tbsp paprika
 * 1 tbsp garlic powder
 * 1 tbsp Black Pepper
+* Mustard to cover ribs
 
 Personally I think half the salt, but its a personal taste
 
