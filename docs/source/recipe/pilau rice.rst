@@ -30,6 +30,6 @@ Method
 #. Stir in the strained rice, and coat with the mixture
 #. Add the stock, mix, and bring to the boil
 #. Reduce to a simmer and cook for 2 minutes
-#. Turn off the heat, and leave lid on for 10 minutes
-#. Max with a fork, leave for another 5 minutes
+#. Turn off the heat, give it a stir and leave lid on for 10 minutes
+#. Mix with a fork, leave for another 5 minutes
   
