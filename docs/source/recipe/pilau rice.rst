@@ -25,7 +25,7 @@ Method
 #. Soak and wash the rice for at least 30 minutes
 #. Heat the oil or butter in a pan
 #. Fry the onions for about 10 minutes until golden brown
-#. Stir in the cinamon stick, cumin seeds, cinamon stick , bay leaves , caradamon pods and cloves. Cook for 2 miunutes
+#. Stir in the cumin seeds, cinamon stick , bay leaves , caradamon pods and cloves. Cook for 2 miunutes
 #. Add the ground coriander and turmeric, cook for 1 minutes
 #. Stir in the strained rice, and coat with the mixture
 #. Add the stock, mix, and bring to the boil
