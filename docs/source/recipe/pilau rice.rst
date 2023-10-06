@@ -7,17 +7,17 @@ Serves 4-6 people
 Ingredients
 ##########
 
-300g basmati rice
-30g butter or 2 tbsp sunflower oil
-1 large onion, chopped
-1 cinnamon stick
-1 tsp cumin seeds
-6 cardamom pods, bashed
-4 cloves
-2 bay leaves
-½ tsp ground coriander
-½ tsp ground turmeric
-500ml vegetable stock or water
+* 300g basmati rice
+* 30g butter or 2 tbsp sunflower oil
+* 1 large onion, chopped
+* 1 cinnamon stick
+* 1 tsp cumin seeds
+* 6 cardamom pods, bashed
+* 4 cloves
+* 2 bay leaves
+* ½ tsp ground coriander
+* ½ tsp ground turmeric
+* 500ml vegetable stock or water
 
 Method
 ######
