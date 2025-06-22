@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'BBQ Recipies'
-copyright = u'2018, Andy'
+copyright = u'2025, Andy'
 author = u'Andy'
 
 # The short X.Y version
