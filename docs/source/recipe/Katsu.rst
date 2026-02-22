@@ -30,8 +30,3 @@ Instructions
 3. Stir in the curry powder and cayenne pepper and cook for 1 minute.
 4. Add the coconut milk, chicken stock, soy sauce, honey, and malt vinegar. Bring to a simmer and cook for 20–25 minutes until the vegetables are very soft and the sauce has reduced slightly.
 5. Blend the sauce until smooth using a stick blender or liquidiser. Keep warm.
-6. Place the soaked rice in a saucepan with 500 ml water and salt. Bring to a boil, reduce to a gentle simmer, cover, and cook for 10 minutes. Remove from the heat and leave to steam, covered, for 10 minutes.
-7. Place each chicken breast between sheets of cling film and pound to about 3–4 mm thickness. Season with salt and black pepper.
-8. Set up three shallow dishes with the flour, beaten egg, and panko breadcrumbs. Coat each chicken breast in flour, then egg, then breadcrumbs.
-9. Heat the oil in a large frying pan over medium heat. Fry the chicken for 4–5 minutes on each side until golden brown and cooked through. Cook in batches if necessary.
-10. Slice the chicken diagonally and serve with the rice. Spoon over the curry sauce.
