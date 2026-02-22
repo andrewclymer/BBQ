@@ -25,8 +25,7 @@ Ingredients
 Instructions
 ##########
 
-1. Rinse the sushi rice until the water runs clear, then soak in cold water for 30 minutes. Drain.
-2. To make the sauce, heat the oil in a saucepan over medium heat. Add the carrots, onion, garlic, and ginger and cook until softened.
-3. Stir in the curry powder and cayenne pepper and cook for 1 minute.
-4. Add the coconut milk, chicken stock, soy sauce, honey, and malt vinegar. Bring to a simmer and cook for 20–25 minutes until the vegetables are very soft and the sauce has reduced slightly.
-5. Blend the sauce until smooth using a stick blender or liquidiser. Keep warm.
+- To make the sauce, heat the oil in a saucepan over medium heat. Add the carrots, onion, garlic, and ginger and cook until softened.
+- Stir in the curry powder and cayenne pepper and cook for 1 minute.
+- Add the coconut milk, chicken stock, soy sauce, honey, and malt vinegar. Bring to a simmer and cook for 20–25 minutes until the vegetables are very soft and the sauce has reduced slightly.
+- Blend the sauce until smooth using a stick blender or liquidiser. Keep warm.
