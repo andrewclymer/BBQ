@@ -1,11 +1,16 @@
-# Katsu Sauce
+*************
+Best Chicken Dry Rub
+*************
 
-## Servings
+Servings
+##########
 4
 
-## Ingredients
+Ingredients
+##########
 
-### Katsu Curry Sauce
+Katsu Curry Sauce
+##########
 - 2 tbsp oil
 - 2 carrots, chopped
 - 1 large onion, chopped
@@ -19,7 +24,8 @@
 - 2 tsp honey
 - 2 tbsp malt vinegar
 
-## Instructions
+Instructions
+##########
 
 1. Rinse the sushi rice until the water runs clear, then soak in cold water for 30 minutes. Drain.
 2. To make the sauce, heat the oil in a saucepan over medium heat. Add the carrots, onion, garlic, and ginger and cook until softened.

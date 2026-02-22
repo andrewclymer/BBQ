@@ -1,15 +1,21 @@
-# Coq au Vin
+*************
+Coq au Vin
+*************
 
-## Servings
+Servings
+##########
 6
 
-## Prep Time
+Prep Time
+##########
 30 minutes
 
-## Cook Time
+Cook Time
+##########
 1 hour 30 minutes
 
-## Ingredients
+Ingredients
+##########
 
 - 6 bone-in, skin-on chicken thighs
 - 6 bone-in, skin-on chicken drumsticks
@@ -30,7 +36,8 @@
 - 30 g butter
 - Fresh parsley, chopped
 
-## Instructions
+Instructions
+##########
 
 1. Pat the chicken dry with paper towels and season generously with salt and black pepper.
 2. In a large Dutch oven over medium heat, cook the diced bacon until crispy. Remove with a slotted spoon and set aside, leaving the fat in the pot.
