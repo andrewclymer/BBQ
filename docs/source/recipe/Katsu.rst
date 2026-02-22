@@ -1,5 +1,5 @@
 *************
-Best Chicken Dry Rub
+Katsu Curry Sauce
 *************
 
 Servings
@@ -9,8 +9,6 @@ Servings
 Ingredients
 ##########
 
-Katsu Curry Sauce
-##########
 - 2 tbsp oil
 - 2 carrots, chopped
 - 1 large onion, chopped
